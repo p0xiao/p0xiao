@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**The better you understand what you are doing, the better you will do it.**
+
 <!--
 **p0xiao/p0xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
